@@ -1,3 +1,31 @@
 Google Docs 
 Pracitce Question + Runiing Select Querry ouput
 https://docs.google.com/document/d/1W__qWgcEUQs9a5ONFxcMDh9h-PcZ6DAyEfapsqxKHmE/edit?usp=sharing 
+
+
+# FakeDB SQL Practice
+
+This repository contains basic SQL queries practiced using **SQL Server Management Studio (SSMS)**.
+
+---
+
+## Database Information
+- **Database Name:** FakeDB
+- **Tables Used:** Customers, Orders
+
+---
+
+## Topics Covered
+- SELECT queries
+- WHERE clause
+- INSERT statements
+- ORDER BY
+- GROUP BY
+- Aggregate functions (SUM, COUNT)
+
+---
+
+## Sample Query
+
+```sql
+SELECT * FROM Customers;
